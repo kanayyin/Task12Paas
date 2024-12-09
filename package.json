@@ -1,0 +1,19 @@
+{
+  "name": "paas",
+  "version": "1.0.0",
+  "description": "Tugas Cloud Compiting week 12",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kanayyin/Task12Paas.git"
+  },
+  "author": "Khaulah Qurota Ain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kanayyin/Task12Paas/issues"
+  },
+  "homepage": "https://github.com/kanayyin/Task12Paas#readme"
+}
